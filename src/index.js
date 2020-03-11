@@ -9,6 +9,16 @@ const QUOTES = [
 	'You are what you eat. I am thirteen tacos and a stick of butter.',
 	'It’s fun to play in the snow. It’s less fun to play in a bathtub full of vomit.',
 	'It’s no fun to go to the dentist, especially if your dentist pushed you down a flight of stairs.',
+	'There’s 16 ounces in a pound. There’s 38 sheep in my pants.',
+	'If your teacher gives you an F, it’s wrong to say, "Well, what did you expect, moron? I didn’t study!"',
+	'It’s easy to milk a cow. It’s weird to milk a toothless hippie named Maurice.',
+	'People who live in glass houses should always wear pants.',
+	'When you get out of the shower soaking wet, it’s almost impossible to dry yourself with a #2 pencil.',
+	'Jack be nimble, Jack be quick, Jack eat chipmunk, Jack get sick.',
+	'Never put underwear on your head and say to people, "I’m little Nancy and this is my pretty new hat".',
+	'Humpty Dumpty sat on a wall, Humpty Dumpty had a great fall. And I laughed my butt off!',
+	'A duck says quack, a cow says moo, and I say, "Get off my property before I call the cops!"',
+	'Don’t put sugar on your hamster and say, "Oooooh, what a sweet hamster."',
 ];
 
 /**

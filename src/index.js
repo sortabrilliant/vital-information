@@ -76,6 +76,8 @@ function displayTheQuote( toolbar ) {
 	vital.className = 'vital-information';
 	vital.style.display = 'flex';
 	vital.style.alignItems = 'center';
+	
+	vital.style.marginLeft = '20px';
 
 	return quote;
 }

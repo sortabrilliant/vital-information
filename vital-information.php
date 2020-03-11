@@ -2,7 +2,7 @@
 /**
  * Plugin Name: Vital Information
  * Plugin URI:  https://sortabrilliant.com/vital-information
- * Description:
+ * Description: Display vital information for your everyday life in the block editor. 
  * Author:      sorta brilliant
  * Author URI:  https://sortabrilliant.com/
  * Version:     1.0.0

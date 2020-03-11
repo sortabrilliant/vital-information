@@ -1,0 +1,28 @@
+{
+	"name": "sorta-brilliant-vital-information",
+	"version": "1.0.0",
+	"description": "",
+	"author": "sorta brilliant",
+	"license": "GPL-2.0-or-later",
+	"keywords": [
+		"wordpress"
+	],
+	"homepage": "https://sortabrilliant.com",
+	"main": "src/index.js",
+	"repository": {
+		"type": "git",
+		"url": "git+https://github.com/sortabrilliant/vital-information"
+	},
+	"scripts": {
+		"build": "wp-scripts build",
+		"lint:style": "wp-scripts lint-style",
+		"lint:scripts": "wp-scripts lint-js",
+		"lint:pkg-json": "wp-scripts lint-pkg-json",
+		"start": "wp-scripts start",
+		"test:unit": "wp-scripts test-unit-js"
+	},
+	"devDependencies": {
+		"@wordpress/scripts": "^7.1.2",
+		"arrive": "^2.4.1"
+	}
+}
